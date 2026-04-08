@@ -65,10 +65,8 @@ def format_repo_row(repo: dict) -> str:
 
 def generate_readme(repos: list[dict]) -> str:
     """Generate the full README content."""
-    header = """# MY PUBLIC REPOSITORIES
-
-| Repository | Description | Stars | Forks | Language | Last Updated |
-|------------|-------------|-------|-------|----------|--------------|"""
+    header = "# MY PUBLIC REPOSITORIES"
+    table_header = "| Repository | Description | Stars | Forks | Language | Last Updated |\n|------------|-------------|-------|-------|----------|--------------|"
 
     # Sort by most recently updated
     repos_sorted = sorted(repos, key=lambda r: r["pushed_at"], reverse=True)
@@ -76,7 +74,8 @@ def generate_readme(repos: list[dict]) -> str:
     rows = [format_repo_row(repo) for repo in repos_sorted]
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
-    return "\n".join([header, "", "\n".join(rows), "", f"Last updated: {timestamp}\n"])
+    table_body = "\n".join([table_header] + rows)
+    return f"{header}\n\n{table_body}\n\nLast updated: {timestamp}\n"
 
 
 def main():
