@@ -4,7 +4,10 @@
       "WebFetch(github.com)",
       "Bash(git init)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(mv *)",
+      "Bash(git *)",
+      "Bash(gh *)"
     ]
   },
   "$version": 3
