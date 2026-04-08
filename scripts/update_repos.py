@@ -7,7 +7,7 @@ import requests
 from datetime import datetime, timezone
 
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-GITHUB_USER = os.environ.get("GITHUB_USER")
+GITHUB_USER = "Vit0rg"
 README_PATH = os.path.join(os.path.dirname(__file__), "..", "README.md")
 
 
