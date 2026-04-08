@@ -6,9 +6,25 @@ import sys
 import requests
 from datetime import datetime, timezone
 
+GITHUB_USER = os.environ.get("GITHUB_USER")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-GITHUB_USER = "Vit0rg"
 README_PATH = os.path.join(os.path.dirname(__file__), "..", "README.md")
+
+# Load .env file as fallback (for local use; GitHub Actions sets env vars directly)
+if not GITHUB_USER or not GITHUB_TOKEN:
+    env_file = os.path.join(os.path.dirname(__file__), "..", ".env")
+    if os.path.exists(env_file):
+        with open(env_file) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    key, _, value = line.partition("=")
+                    key = key.strip()
+                    value = value.strip()
+                    if key == "GITHUB_USER" and not GITHUB_USER:
+                        GITHUB_USER = value
+                    elif key == "GITHUB_TOKEN" and not GITHUB_TOKEN:
+                        GITHUB_TOKEN = value
 
 
 def fetch_public_repos(username: str, token: str) -> list[dict]:
