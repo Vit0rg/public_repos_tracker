@@ -2,11 +2,11 @@
 
 | Repository | Description | Stars | Forks | Language | Last Updated |
 |------------|-------------|-------|-------|----------|--------------|
-| [Vit0rg/eight_colors_random_generator](https://github.com/Vit0rg/eight_colors_random_generator) | Generates 8 random colors every 8 hours with HSL, RGB, Hex, and ANSI values using shell scripting and GitHub Actions. | 2 | 0 | Shell | 2026-05-20 |
-| [Vit0rg/public_repos_tracker](https://github.com/Vit0rg/public_repos_tracker) | A self-updating README that tracks and displays all my public GitHub repositories  | 3 | 0 | Python | 2026-05-20 |
+| [Vit0rg/eight_colors_random_generator](https://github.com/Vit0rg/eight_colors_random_generator) | Generates 8 random colors every 8 hours with HSL, RGB, Hex, and ANSI values using shell scripting and GitHub Actions. | 1 | 0 | Shell | 2026-05-21 |
+| [Vit0rg/public_repos_tracker](https://github.com/Vit0rg/public_repos_tracker) | A self-updating README that tracks and displays all my public GitHub repositories  | 2 | 0 | Python | 2026-05-20 |
 | [Vit0rg/Volley](https://github.com/Vit0rg/Volley) | - | 1 | 0 | Lua | 2026-05-07 |
-| [Vit0rg/echeckers](https://github.com/Vit0rg/echeckers) | - | 2 | 0 | Lua | 2026-04-13 |
-| [Vit0rg/dotfiles](https://github.com/Vit0rg/dotfiles) | - | 2 | 0 | Shell | 2026-03-06 |
+| [Vit0rg/echeckers](https://github.com/Vit0rg/echeckers) | - | 1 | 0 | Lua | 2026-04-13 |
+| [Vit0rg/dotfiles](https://github.com/Vit0rg/dotfiles) | - | 1 | 0 | Shell | 2026-03-06 |
 | [Vit0rg/PolyCiv](https://github.com/Vit0rg/PolyCiv) | PolyCiv is a mod that adds content from the Polytopia game, slightly expanding it. | 0 | 0 | - | 2025-09-27 |
 | [Vit0rg/Space-Frontier](https://github.com/Vit0rg/Space-Frontier) | Space Frontier is a mod for Unciv | 0 | 0 | - | 2025-08-27 |
 | [Vit0rg/guess-the-flag](https://github.com/Vit0rg/guess-the-flag) | - | 1 | 0 | JavaScript | 2024-07-10 |
@@ -24,7 +24,7 @@
 | [Vit0rg/C2GI](https://github.com/Vit0rg/C2GI) | Page for playback of Youtube videos using iframe | 2 | 0 | CSS | 2022-05-09 |
 | [Vit0rg/just-cats-js](https://github.com/Vit0rg/just-cats-js) | Simple study about APIs | 2 | 0 | CSS | 2022-04-26 |
 | [Vit0rg/Lista-de-Produtos](https://github.com/Vit0rg/Lista-de-Produtos) | Implementação responsivo | 2 | 0 | JavaScript | 2022-04-16 |
-| [Vit0rg/analog-clock-js](https://github.com/Vit0rg/analog-clock-js) | - | 3 | 0 | CSS | 2022-04-15 |
+| [Vit0rg/analog-clock-js](https://github.com/Vit0rg/analog-clock-js) | - | 2 | 0 | CSS | 2022-04-15 |
 | [Vit0rg/Planets-II](https://github.com/Vit0rg/Planets-II) | Alternative version of Planets page (personal project) | 2 | 0 | CSS | 2022-04-04 |
 | [Vit0rg/Codex](https://github.com/Vit0rg/Codex) | - | 2 | 0 | HTML | 2022-04-04 |
 | [Vit0rg/responsive-searchbar](https://github.com/Vit0rg/responsive-searchbar) | Functional component to search items on a page | 1 | 0 | CSS | 2022-04-01 |
@@ -43,4 +43,4 @@
 | [Vit0rg/Snake-Game-Star-Devourer-Snake-](https://github.com/Vit0rg/Snake-Game-Star-Devourer-Snake-) | - | 0 | 0 | JavaScript | 2021-07-02 |
 | [Vit0rg/Clone-Instagram](https://github.com/Vit0rg/Clone-Instagram) | Clone usando paleta de cores escura, similar ao modo P&B oficial do aplicativo Instagram®, todos os direitos reservados.  | 0 | 0 | CSS | 2021-06-29 |
 
-Last updated: 2026-05-20 20:09:37 UTC
+Last updated: 2026-05-21 02:54:59 UTC
