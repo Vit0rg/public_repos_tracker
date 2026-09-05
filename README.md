@@ -2,8 +2,8 @@
 
 | Repository | Description | Stars | Forks | Language | Last Updated |
 |------------|-------------|-------|-------|----------|--------------|
+| [Vit0rg/public_repos_tracker](https://github.com/Vit0rg/public_repos_tracker) | A self-updating README that tracks and displays all my public GitHub repositories  | 1 | 0 | Python | 2026-09-05 |
 | [Vit0rg/eight_colors_random_generator](https://github.com/Vit0rg/eight_colors_random_generator) | Generates 8 random colors every 8 hours with HSL, RGB, Hex, and ANSI values using shell scripting and GitHub Actions. | 0 | 0 | Shell | 2026-09-05 |
-| [Vit0rg/public_repos_tracker](https://github.com/Vit0rg/public_repos_tracker) | A self-updating README that tracks and displays all my public GitHub repositories  | 1 | 0 | Python | 2026-09-04 |
 | [Vit0rg/Volley](https://github.com/Vit0rg/Volley) | - | 1 | 0 | Lua | 2026-08-30 |
 | [Vit0rg/Docs_and_tutorials_and_ramblings](https://github.com/Vit0rg/Docs_and_tutorials_and_ramblings) | A collection of software analysis and ramblings | 0 | 0 | Lua | 2026-08-08 |
 | [Vit0rg/echeckers](https://github.com/Vit0rg/echeckers) | - | 3 | 0 | Lua | 2026-04-13 |
@@ -13,6 +13,7 @@
 | [Vit0rg/guess-the-flag](https://github.com/Vit0rg/guess-the-flag) | - | 1 | 0 | JavaScript | 2024-07-10 |
 | [Vit0rg/Light](https://github.com/Vit0rg/Light) | Web page simulating a LED lamp with functional switch | 2 | 0 | CSS | 2023-08-30 |
 | [Vit0rg/doki-theme-vim](https://github.com/Vit0rg/doki-theme-vim) | Complementary color schemes for your full Otaku terminal experience. Works best with the Doki Theme for Hyper.js! | 1 | 0 | Vim Script | 2023-05-17 |
+| [Vit0rg/unotfm](https://github.com/Vit0rg/unotfm) | A game about UNO for Transformice using Lua. | 0 | 0 | - | 2023-03-05 |
 | [Vit0rg/mediaponderada](https://github.com/Vit0rg/mediaponderada) | Calculador de média ponderadas | 1 | 0 | CSS | 2022-10-10 |
 | [Vit0rg/ROG-E-COMMERCE](https://github.com/Vit0rg/ROG-E-COMMERCE) | Página de E-Commerce com produtos da ROG, exclusivamente para fins de estudo | 1 | 0 | JavaScript | 2022-10-05 |
 | [Vit0rg/music-player](https://github.com/Vit0rg/music-player) | Music player developed using pure HTML, CSS and JS (not responsive yet) | 1 | 0 | CSS | 2022-10-03 |
@@ -44,4 +45,4 @@
 | [Vit0rg/Snake-Game-Star-Devourer-Snake-](https://github.com/Vit0rg/Snake-Game-Star-Devourer-Snake-) | - | 0 | 0 | JavaScript | 2021-07-02 |
 | [Vit0rg/Clone-Instagram](https://github.com/Vit0rg/Clone-Instagram) | Clone usando paleta de cores escura, similar ao modo P&B oficial do aplicativo Instagram®, todos os direitos reservados.  | 0 | 0 | CSS | 2021-06-29 |
 
-Last updated: 2026-09-05 02:42:17 UTC
+Last updated: 2026-09-05 09:53:25 UTC
